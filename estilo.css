@@ -1,7 +1,7 @@
 h1{
     text-align: center;
     border: black solid 2px;
-    background-color: red;
+    background-color: cyan;
    }
 iframe{
     display: block;
@@ -14,7 +14,9 @@ iframe{
     background:orangered;
    }
 body{
-       background: yellow;
+       background-image: url("fond.png");
+       background-size: auto;
+       background-repeat: no-repeat;
    }
 
 #header{
